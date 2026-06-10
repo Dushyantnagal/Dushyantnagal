@@ -1,4 +1,4 @@
-<img width="500" height="546" alt="image" src="https://github.com/user-attachments/assets/098ad5d2-4de1-4aff-8da0-a8c5cb3ecb53" /># 👋 Hi, I'm Dushyant Nagal
+# 👋 Hi, I'm Dushyant Nagal
 
 Follow on LinkedIn: [linkedin.com/in/dushyant-nagal](https://www.linkedin.com/in/dushyant-nagal-8279a7293/) 
 
